@@ -1,1 +1,1 @@
-# alg_form
+https://victoriiadv.github.io/alg_form/
